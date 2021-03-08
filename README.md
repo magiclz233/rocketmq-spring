@@ -9,6 +9,21 @@
 This project aims to help developers quickly integrate [RocketMQ](http://rocketmq.apache.org/) with [Spring Boot](http://projects.spring.io/spring-boot/). 
 
 ## Features
+-[x]同步发送消息
+-[x]异步发送消息
+-[x]以单向模式发送消息
+-[x]发送有序消息
+-[x]发送批量消息
+-[x]发送事务消息
+-[x]发送具有延迟级别的计划消息
+-[x]使用并发模式的消息（广播群集）
+-[x]使用有序消息
+-[x]使用标记或sql92表达式过滤消息
+-[x]支持消息跟踪
+-[x]支持身份验证和授权
+-[x]支持请求-答复消息交换模式
+-[x]以推挽模式使用消息
+
 
 - [x] Send messages synchronously
 - [x] Send messages asynchronously
